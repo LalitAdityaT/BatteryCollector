@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6B69A2A0-4750-5CB2-6B61-6C95F54FE966}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BatteryCollector",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

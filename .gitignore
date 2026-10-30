@@ -1,0 +1,28 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and generated project files
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.tmp
+*.log
+*.pdb
+*.obj
+*.pch
+*.lib
+*.exp
+
+# Per-user editor settings
+Config/DefaultEditorPerProjectUserSettings.ini
